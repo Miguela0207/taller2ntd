@@ -10947,7 +10947,11 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
+<<<<<<< HEAD
   background-image: url("../assets/img/Banner/BANNER.jpg");
+=======
+  background-image: url("../assets/img/header-bg.jpg");
+>>>>>>> fb4f2c5ed2ee274cc9d11d5c04ef5fa0f55b1bbb
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
